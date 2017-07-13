@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hyperthese/php-serial": "^1.0",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
